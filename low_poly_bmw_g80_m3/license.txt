@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly BMW G80 M3
+* source:	https://sketchfab.com/3d-models/low-poly-bmw-g80-m3-ea3e807ff69e40fe82c5577ee9f0a2f4
+* author:	SharkyStudios (https://sketchfab.com/sharkycat109)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly BMW G80 M3" (https://sketchfab.com/3d-models/low-poly-bmw-g80-m3-ea3e807ff69e40fe82c5577ee9f0a2f4) by SharkyStudios (https://sketchfab.com/sharkycat109) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
